@@ -1,0 +1,17 @@
+{
+  "name": "curso-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/** test/** --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.0.0",
+    "eslint": "^8.23.0",
+    "jest": "^29.0.2"
+  }
+}
